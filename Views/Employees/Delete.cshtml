@@ -1,0 +1,6 @@
+@model ArboxEmployeeMS.Models.Employee
+@{ Layout="~/Views/Shared/_Layout.cshtml"; }
+<h2>Delete Employee</h2>
+<div class="alert alert-warning">Are you sure you want to delete <strong>@Model.FirstName @Model.LastName</strong>?</div>
+<form asp-action="Delete">
+    @Html.AntiForgeryToken()<input type="hidden" asp-for="Id"/><button type="submit" class="btn btn-danger">Yes, delete</button> <a href="/Employees" class="btn btn-secondary">Cancel</a></form>

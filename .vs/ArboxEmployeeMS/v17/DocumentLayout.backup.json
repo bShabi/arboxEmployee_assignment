@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|c:\\users\\bens5\\downloads\\arboxemployeems_fix_devpage_antiforgery\\arboxemployeems\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|c:\\users\\bens5\\downloads\\arboxemployeems_fix_devpage_antiforgery\\arboxemployeems\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|c:\\users\\bens5\\downloads\\arboxemployeems_fix_devpage_antiforgery\\arboxemployeems\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|solutionrelative:controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|c:\\users\\bens5\\downloads\\arboxemployeems_fix_devpage_antiforgery\\arboxemployeems\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|solutionrelative:controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|c:\\users\\bens5\\downloads\\arboxemployeems_fix_devpage_antiforgery\\arboxemployeems\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|c:\\users\\bens5\\downloads\\arboxemployeems_fix_devpage_antiforgery\\arboxemployeems\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|c:\\users\\bens5\\downloads\\arboxemployeems_fix_devpage_antiforgery\\arboxemployeems\\data\\jsonfilecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|solutionrelative:data\\jsonfilecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|c:\\users\\bens5\\downloads\\arboxemployeems_fix_devpage_antiforgery\\arboxemployeems\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|solutionrelative:middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|c:\\users\\bens5\\downloads\\arboxemployeems_fix_devpage_antiforgery\\arboxemployeems\\data\\repositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|solutionrelative:data\\repositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|c:\\users\\bens5\\downloads\\arboxemployeems_fix_devpage_antiforgery\\arboxemployeems\\views\\departments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|solutionrelative:views\\departments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|c:\\users\\bens5\\downloads\\arboxemployeems_fix_devpage_antiforgery\\arboxemployeems\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|solutionrelative:views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|c:\\users\\bens5\\downloads\\arboxemployeems_fix_devpage_antiforgery\\arboxemployeems\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|solutionrelative:views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|c:\\users\\bens5\\downloads\\arboxemployeems_fix_devpage_antiforgery\\arboxemployeems\\services\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|solutionrelative:services\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|c:\\users\\bens5\\downloads\\arboxemployeems_fix_devpage_antiforgery\\arboxemployeems\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|solutionrelative:views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|c:\\users\\bens5\\downloads\\arboxemployeems_fix_devpage_antiforgery\\arboxemployeems\\app_data\\departments.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|solutionrelative:app_data\\departments.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|c:\\users\\bens5\\downloads\\arboxemployeems_fix_devpage_antiforgery\\arboxemployeems\\app_data\\employees.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|solutionrelative:app_data\\employees.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|c:\\users\\bens5\\downloads\\arboxemployeems_fix_devpage_antiforgery\\arboxemployeems\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31E9A538-6B5B-5736-947B-C181641A828F}|ArboxEmployeeMS.csproj|solutionrelative:views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-11T05:59:14.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\Views\\Departments\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Departments\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\Views\\Departments\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Departments\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T05:56:51.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\Services\\Services.cs",
+              "RelativeDocumentMoniker": "Services\\Services.cs",
+              "ToolTip": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\Services\\Services.cs",
+              "RelativeToolTip": "Services\\Services.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T05:54:46.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JsonFileContext.cs",
+              "DocumentMoniker": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\Data\\JsonFileContext.cs",
+              "RelativeDocumentMoniker": "Data\\JsonFileContext.cs",
+              "ToolTip": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\Data\\JsonFileContext.cs",
+              "RelativeToolTip": "Data\\JsonFileContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T11:11:41.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "departments.json",
+              "DocumentMoniker": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\App_Data\\departments.json",
+              "RelativeDocumentMoniker": "App_Data\\departments.json",
+              "ToolTip": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\App_Data\\departments.json",
+              "RelativeToolTip": "App_Data\\departments.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-10T11:11:36.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "employees.json",
+              "DocumentMoniker": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\App_Data\\employees.json",
+              "RelativeDocumentMoniker": "App_Data\\employees.json",
+              "ToolTip": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\App_Data\\employees.json",
+              "RelativeToolTip": "App_Data\\employees.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-10T11:11:34.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T11:09:35.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T11:03:23.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repositories.cs",
+              "DocumentMoniker": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\Data\\Repositories.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories.cs",
+              "ToolTip": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\Data\\Repositories.cs",
+              "RelativeToolTip": "Data\\Repositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T11:03:10.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwFMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T11:02:48.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T10:26:34.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T11:08:22.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-08-10T10:29:37.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "Middleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T10:26:23.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T05:56:39.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\Views\\Departments\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Departments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\Views\\Departments\\Create.cshtml",
+              "RelativeToolTip": "Views\\Departments\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T05:56:47.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\Views\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\bens5\\Downloads\\ArboxEmployeeMS_FIX_DevPage_AntiForgery\\ArboxEmployeeMS\\Views\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T10:26:41.955Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

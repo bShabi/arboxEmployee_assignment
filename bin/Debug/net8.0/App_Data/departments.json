@@ -1,0 +1,22 @@
+[
+  {
+    "id": 4,
+    "name": "Customer Success"
+  },
+  {
+    "id": 1,
+    "name": "Engineering"
+  },
+  {
+    "id": 3,
+    "name": "Finance"
+  },
+  {
+    "id": 2,
+    "name": "HR"
+  },
+  {
+    "id": 5,
+    "name": "HR2"
+  }
+]

@@ -1,0 +1,6 @@
+@model List<ArboxEmployeeMS.Models.Department>
+@{ Layout="~/Views/Shared/_Layout.cshtml"; }
+<div class="d-flex justify-content-between align-items-center mb-3"><h2>Departments</h2><a class="btn btn-primary" href="/Departments/Create">Add Department</a></div>
+<table class="table table-striped"><thead><tr><th>Id</th><th>Name</th><th></th></tr></thead><tbody>
+@foreach (var d in Model){<tr><td>@d.Id</td><td>@d.Name</td><td><a class="btn btn-sm btn-outline-secondary" href="/Departments/Edit/@d.Id">Edit</a> <a class="btn btn-sm btn-outline-danger" href="/Departments/Delete/@d.Id">Delete</a></td></tr>}
+</tbody></table>

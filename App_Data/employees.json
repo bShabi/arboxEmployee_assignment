@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "firstName": "Avi",
+    "lastName": "Levi",
+    "email": "avi.levi@example.com",
+    "hireDate": "2025-07-31T00:00:00",
+    "salary": 18000,
+    "departmentId": 1
+  },
+  {
+    "id": 2,
+    "firstName": "Dana",
+    "lastName": "Cohen",
+    "email": "dana.cohen@example.com",
+    "hireDate": "2025-07-01T00:00:00",
+    "salary": 15000,
+    "departmentId": 2
+  },
+  {
+    "id": 3,
+    "firstName": "Ben",
+    "lastName": "Shabi",
+    "email": "ben.shabi@example.com",
+    "hireDate": "2025-08-08T00:00:00",
+    "salary": 20000,
+    "departmentId": 1
+  },
+  {
+    "id": 4,
+    "firstName": "Enav",
+    "lastName": "Shabi",
+    "email": "enav@shabi.com",
+    "hireDate": "2025-08-10T00:00:00",
+    "salary": 2222,
+    "departmentId": 2
+  }
+]

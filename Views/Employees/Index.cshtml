@@ -1,0 +1,12 @@
+@model ArboxEmployeeMS.Models.PagedResult<ArboxEmployeeMS.Models.Employee>
+@{ Layout="~/Views/Shared/_Layout.cshtml"; string sort(string n)=>Url.Action("Index", new { sortBy=n, asc=!(bool)(ViewBag.Asc ?? true), search=ViewBag.Search, page=ViewBag.Page, pageSize=ViewBag.PageSize }); }
+<div class="d-flex justify-content-between align-items-center mb-3"><h2>Employees</h2><a class="btn btn-primary" href="/Employees/Create">Add Employee</a></div>
+<form method="get" class="row g-2 mb-2"><div class="col-auto"><input name="search" value="@ViewBag.Search" class="form-control" placeholder="Search..."/></div><div class="col-auto"><button class="btn btn-secondary" type="submit">Filter</button></div></form>
+<table class="table table-hover"><thead><tr>
+<th><a href="@sort("id")">Id</a></th><th><a href="@sort("firstName")">First Name</a></th><th><a href="@sort("lastName")">Last Name</a></th>
+<th><a href="@sort("email")">Email</a></th><th><a href="@sort("hireDate")">Hire Date</a></th><th><a href="@sort("salary")">Salary</a></th><th>Department</th><th></th>
+</tr></thead><tbody>
+@foreach (var e in Model.Items){<tr><td>@e.Id</td><td>@e.FirstName</td><td>@e.LastName</td><td>@e.Email</td><td>@e.HireDate.ToString("yyyy-MM-dd")</td><td>@e.Salary.ToString("C")</td><td>@e.DepartmentId</td><td><a class="btn btn-sm btn-outline-secondary" href="/Employees/Edit/@e.Id">Edit</a> <a class="btn btn-sm btn-outline-danger" href="/Employees/Delete/@e.Id">Delete</a></td></tr>}
+</tbody></table>
+@{ int page=(int)ViewBag.Page; int size=(int)ViewBag.PageSize; int totalPages=(int)Math.Ceiling((double)Model.TotalCount/size); }
+<nav><ul class="pagination">@for(int i=1;i<=totalPages;i++){<li class="page-item @(i==page? "active":"")"><a class="page-link" href="@Url.Action("Index", new { page=i, pageSize=size, search=ViewBag.Search, sortBy=ViewBag.SortBy, asc=ViewBag.Asc })">@i</a></li>}</ul></nav>
