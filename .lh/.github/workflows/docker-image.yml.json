@@ -3,11 +3,15 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 0,
+            "activePatchIndex": 1,
             "patches": [
                 {
                     "date": 1754894104782,
                     "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1754894575763,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,42 +1,18 @@\n-name: CI - Build, Test, and Publish Docker\n+name: Docker Image CI\n \n on:\n   push:\n     branches: [ \"main\" ]\n   pull_request:\n     branches: [ \"main\" ]\n \n-permissions:\n-  contents: read\n-  packages: write\n+jobs:\n \n-jobs:\n   build:\n+\n     runs-on: ubuntu-latest\n+\n     steps:\n-      - uses: actions/checkout@v4\n-\n-      # Build & (optionally) test the .NET app\n-      - name: Setup .NET\n-        uses: actions/setup-dotnet@v4\n-        with:\n-          dotnet-version: '8.0.x'\n-\n-      - name: Restore/Build/Test\n-        run: |\n-          dotnet restore\n-          dotnet build --configuration Release --no-restore\n-          # If you add tests later, keep this line. If no tests yet, it's harmless:\n-          dotnet test --configuration Release --no-build\n-\n-      # Build and push Docker image to GitHub Container Registry (GHCR)\n-      - name: Log in to GHCR\n-        run: echo \"${{ github.token }}\" | docker login ghcr.io -u ${{ github.actor }} --password-stdin\n-\n-      - name: Build and Push Image\n-        env:\n-          IMAGE_NAME: ghcr.io/${{ github.repository_owner }}/arbox-ems\n-        run: |\n-          docker build -t $IMAGE_NAME:latest -t $IMAGE_NAME:${{ github.sha }} .\n-          docker push $IMAGE_NAME:latest\n-          docker push $IMAGE_NAME:${{ github.sha }}\n+    - uses: actions/checkout@v4\n+    - name: Build the Docker image\n+      run: docker build . --file Dockerfile --tag my-image-name:$(date +%s)\n"
                 }
             ],
             "date": 1754894104782,
